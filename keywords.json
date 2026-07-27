@@ -1,0 +1,23 @@
+[
+  {
+    "label": "kitchen",
+    "keywords": ["air fryer", "rice cooker", "electric kettle"],
+    "region": "US",
+    "time_range": "today 3-m",
+    "language": "en-US"
+  },
+  {
+    "label": "fitness",
+    "keywords": ["yoga mat", "resistance bands", "walking pad"],
+    "region": "US",
+    "time_range": "today 12-m",
+    "language": "en-US"
+  },
+  {
+    "label": "beauty-uk",
+    "keywords": ["vitamin c serum", "hyaluronic acid", "retinol cream"],
+    "region": "GB",
+    "time_range": "today 3-m",
+    "language": "en-GB"
+  }
+]

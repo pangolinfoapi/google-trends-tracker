@@ -1,0 +1,2 @@
+# No third-party dependencies — Python 3.10+ standard library only.
+# (requirements.txt is kept for tooling parity; nothing to install.)
