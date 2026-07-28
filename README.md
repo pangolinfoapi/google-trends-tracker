@@ -151,11 +151,13 @@ Full setup + automation guide: [docs/SETUP.md](docs/SETUP.md).
 
 ### 🛰️ More free tools by [@pangolinfoapi](https://github.com/pangolinfoapi)
 
-- [amazon-keyword-rank-tracker](https://github.com/pangolinfoapi/amazon-keyword-rank-tracker) —
+🏠 **Hub:** [All tools, landing pages & tutorials](https://pangolinfoapi.github.io/)
+
+- [amazon-keyword-rank-tracker](https://pangolinfoapi.github.io/amazon-keyword-rank-tracker/) —
   track your Amazon keyword rankings daily
-- [amazon-niche-finder](https://github.com/pangolinfoapi/amazon-niche-finder) —
+- [amazon-niche-finder](https://pangolinfoapi.github.io/amazon-niche-finder/) —
   discover low-competition Amazon niches
-- [amazon-review-analyzer](https://github.com/pangolinfoapi/amazon-review-analyzer) —
+- [amazon-review-analyzer](https://pangolinfoapi.github.io/amazon-review-analyzer/) —
   Amazon review sentiment + complaint/praise theme mining
 
 ### 🏗️ Built on the official Pangolinfo projects ([by @Pangolin-spg](https://github.com/Pangolin-spg))
